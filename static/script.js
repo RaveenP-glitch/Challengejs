@@ -112,3 +112,7 @@ function rpsFrontEnd(humanImageChoice, botImageChoice, finalMessage){
     
 
 }
+
+//Challenge 4: Change the Color of all Buttons
+var all_buttons = document.getElementsByTagName('button');
+console.log(all_buttons);
